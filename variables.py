@@ -109,6 +109,7 @@ name = "cheptoo"
 length = len(name)
 print(length)
 name [0]
+print(len(name))
 
 print
  
