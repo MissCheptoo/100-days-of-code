@@ -14,7 +14,6 @@ print(bin(a | b))
 print(a | b)
 
 #bitwise not, returns the complement of a number, the opposite
-a = 10
-print( ~a )
+
 
  

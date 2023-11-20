@@ -17,7 +17,6 @@ if (x > y) :
 else :
     print("x is not greater to y")
 
-
 if (x < y) :
     print("x is less than to y")
 else :
